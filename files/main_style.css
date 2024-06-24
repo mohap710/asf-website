@@ -35,6 +35,8 @@ p,
 blockquote,
 fieldset,
 input {
+  font-family: "Alegreya SC", Helvetica, Arial, sans-serif;
+  color: white;
   margin: 0;
   padding: 0;
 }
@@ -63,6 +65,7 @@ textarea {
 }
 html {
   height: 100%;
+  background: #0c0c0c;
 }
 * {
   font-family: "Alegreya SC", Helvetica, Arial, sans-serif;
@@ -264,7 +267,7 @@ body:not(.splash-page).full-width-off .wrapper {
   z-index: 12;
   width: 100%;
   max-width: 100%;
-  padding: 20px 40px;
+  padding-inline: 1rem;
   color: #ffffff;
   box-sizing: border-box;
   -webkit-transition: padding 240ms ease, min-height 240ms ease;
@@ -289,13 +292,15 @@ body.sticky-nav-on .unite-header,
 body.splash-page .unite-header {
   position: fixed;
   top: 0;
+  transition: all ease-in-out 300ms;
 }
 body.sticky-nav-on.collapse .unite-header,
 body.splash-page.collapse .unite-header {
   position: fixed;
+  background-color: #0d0d0db4;
   color: #ffffff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  padding: 5px 40px;
+  padding: 15px 40px;
 }
 body.sticky-nav-on.collapse .unite-header .container,
 body.splash-page.collapse .unite-header .container {
@@ -338,10 +343,12 @@ body.splash-page .unite-header .hamburger span:after {
 }
 .unite-header .logo * {
   display: block;
-  margin: auto;
+  /* margin: auto; */
 }
 .unite-header .logo a {
-  margin-right: 30px;
+  width: max-content;
+  /* padding-left: 40px; */
+  margin-left: 80px;
 }
 .unite-header .logo a:hover {
   opacity: 0.6;
@@ -1262,7 +1269,7 @@ h2#wsite-com-product-title {
   .unite-header .logo {
     overflow: hidden;
     text-align: center;
-    width: auto;
+    width: fit-content;
   }
   .unite-header .logo a {
     margin-left: 0;
