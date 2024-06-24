@@ -148,7 +148,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
           <a class="hamburger" aria-label="Menu" href="#"><span></span></a>
           <div class="logo"><span class="wsite-logo">
 
-	<a href="/">
+	<a href="index.html">
 		<img src="uploads/1/2/7/6/127640413/unnamed.png" alt="Advanced Surface Finishing Inc." />
 	</a>
 
@@ -156,7 +156,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
           <div class="nav desktop-nav"><ul class="wsite-menu-default">
 		<li id="active" class="wsite-menu-item-wrap">
 			<a
-						href="/"
+						href="index.html"
 				class="wsite-menu-item"
 				>
 				Home
@@ -165,7 +165,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 		</li>
 		<li id="pg954934500852874199" class="wsite-menu-item-wrap">
 			<a
-						href="/our-services.html"
+						href="our-services.html"
 				class="wsite-menu-item"
 				>
 				Our Services
@@ -174,7 +174,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 		</li>
 		<li id="pg877132215269618741" class="wsite-menu-item-wrap">
 			<a
-						href="/about-us.html"
+						href="about-us.html"
 				class="wsite-menu-item"
 				>
 				About Us
@@ -183,7 +183,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 		</li>
 		<li id="pg939907331489266245" class="wsite-menu-item-wrap">
 			<a
-						href="/contact-us.html"
+						href="contact-us.html"
 				class="wsite-menu-item"
 				>
 				Contact Us
@@ -347,7 +347,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
 <div style="text-align:center;"><div style="height: 0px; overflow: hidden;"></div>
-<a class="wsite-button wsite-button-small wsite-button-highlight" href="/contact-us.html" target="_blank">
+<a class="wsite-button wsite-button-small wsite-button-highlight" href="contact-us.html" target="_blank">
 <span class="wsite-button-inner">Please Click Here For Any Questions</span>
 </a>
 <div style="height: 0px; overflow: hidden;"></div></div>
@@ -360,7 +360,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 <div class="paragraph" style="text-align:center;"><strong><em><font size="7" color="#ffffff">CUSTOMER SERVICE</font></em></strong></div>
 
-<div class="paragraph" style="text-align:center;"><font color="#fffdfd">We go above and beyond only providing quality, the best pricing, fast delivery, quick turnover, quality assurance, expertise, a wide range of services, and much more. ASF listens to its customers and helps to resolve any issues you may have immediately because we are experts in our field. We stand by our products and guarantee quality, not to mention we work 24 hours, 7 days a week, and are always available to assist you. We will even personally come to your facility to look at any issues you may be having and provide assistance.&nbsp;We do not only offer services, we offer experience. <em style="">If you would like to contact us, please take a look at our <a href="/contact-us.html" target="_blank" style="">Contact&nbsp;Us</a> page.</em></font></div>
+<div class="paragraph" style="text-align:center;"><font color="#fffdfd">We go above and beyond only providing quality, the best pricing, fast delivery, quick turnover, quality assurance, expertise, a wide range of services, and much more. ASF listens to its customers and helps to resolve any issues you may have immediately because we are experts in our field. We stand by our products and guarantee quality, not to mention we work 24 hours, 7 days a week, and are always available to assist you. We will even personally come to your facility to look at any issues you may be having and provide assistance.&nbsp;We do not only offer services, we offer experience. <em style="">If you would like to contact us, please take a look at our <a href="contact-us.html" target="_blank" style="">Contact&nbsp;Us</a> page.</em></font></div>
 
 <div><div style="height: 20px; overflow: hidden; width: 50%;"></div>
 <hr class="styled-hr" style="width:50%;"></hr>
@@ -411,7 +411,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 <div class="wsite-spacer" style="height:34px;"></div>
 
-<div class="paragraph" style="text-align:center;"><u><em><font size="6">TO LEARN MORE ABOUT HOW WE GOT STARTED AND OUR VALUES, TAKE A LOOK AT OUR<font color="#76cae9"> <a href="/about-us.html" target="_blank">ABOUT US </a></font>PAGE.</font></em></u></div>
+<div class="paragraph" style="text-align:center;"><u><em><font size="6">TO LEARN MORE ABOUT HOW WE GOT STARTED AND OUR VALUES, TAKE A LOOK AT OUR<font color="#76cae9"> <a href="about-us.html" target="_blank">ABOUT US </a></font>PAGE.</font></em></u></div>
 			</div>
 		</div>
       </div>
@@ -611,7 +611,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 <div class="paragraph" style="text-align:left;"><strong><u><em><font color="#cccccc">OUR SERVICES</font></em></u></strong></div>
 
-<div class="paragraph" style="text-align:left;"><em><font color="#a1a1a1" size="5"><a href="/our-services.html" target="_blank" style="">What ASF Provides</a><br /><a href="/our-services.html" target="_blank" style="">Why Our Customers Love Us</a></font></em></div>
+<div class="paragraph" style="text-align:left;"><em><font color="#a1a1a1" size="5"><a href="our-services.html" target="_blank" style="">What ASF Provides</a><br /><a href="our-services.html" target="_blank" style="">Why Our Customers Love Us</a></font></em></div>
 
 
 					
@@ -621,7 +621,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 <div class="paragraph" style="text-align:left;"><em><u><strong><font color="#cccccc">ABOUT US</font></strong></u></em></div>
 
-<div class="paragraph" style="text-align:left;"><em><font color="#a1a1a1"><a href="/about-us.html" target="_blank"><font size="5">Why We Got Started</font><br /></a><font size="5"><a href="/about-us.html">&#8203;Why ASF is the One For You</a></font></font></em></div>
+<div class="paragraph" style="text-align:left;"><em><font color="#a1a1a1"><a href="about-us.html" target="_blank"><font size="5">Why We Got Started</font><br /></a><font size="5"><a href="about-us.html">&#8203;Why ASF is the One For You</a></font></font></em></div>
 
 
 					
@@ -631,7 +631,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 
 <div class="paragraph" style="text-align:left;"><u><em><strong><font color="#cccccc">CONTACT US</font></strong></em></u></div>
 
-<div class="paragraph"><font color="#a1a1a1" size="5"><a href="/contact-us.html" target="_blank">Email<br /></a></font><font size="5">SAL@ADVANCEDSFINC.COM</font><br /><font color="#a1a1a1" size="5"></font><br /><br /></div>
+<div class="paragraph"><font color="#a1a1a1" size="5"><a href="contact-us.html" target="_blank">Email<br /></a></font><font size="5">SAL@ADVANCEDSFINC.COM</font><br /><font color="#a1a1a1" size="5"></font><br /><br /></div>
 
 
 					
@@ -643,7 +643,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 <hr class="styled-hr" style="width:100%;"></hr>
 <div style="height: 30px; overflow: hidden; width: 100%;"></div></div>
 
-<div class="paragraph" style="text-align:center;"><em><a href="/contact-us.html" target="_blank"><font color="#d5d5d5">1181 N 4th St #50, San Jose, CA, 95112, USA<br /><span style="font-weight:bolder">Phone:&nbsp;</span>(408) 427-5842</font></a></em></div>
+<div class="paragraph" style="text-align:center;"><em><a href="contact-us.html" target="_blank"><font color="#d5d5d5">1181 N 4th St #50, San Jose, CA, 95112, USA<br /><span style="font-weight:bolder">Phone:&nbsp;</span>(408) 427-5842</font></a></em></div>
 
 <div><div style="height: 0px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"></hr>
@@ -676,7 +676,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
     <ul class="wsite-menu-default">
     		<li id="active" class="wsite-menu-item-wrap">
     			<a
-    						href="/"
+    						href="index.html"
     				class="wsite-menu-item"
     				>
     				Home
@@ -685,7 +685,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
     		</li>
     		<li id="pg954934500852874199" class="wsite-menu-item-wrap">
     			<a
-    						href="/our-services.html"
+    						href="our-services.html"
     				class="wsite-menu-item"
     				>
     				Our Services
@@ -694,7 +694,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
     		</li>
     		<li id="pg877132215269618741" class="wsite-menu-item-wrap">
     			<a
-    						href="/about-us.html"
+    						href="about-us.html"
     				class="wsite-menu-item"
     				>
     				About Us
@@ -703,7 +703,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
     		</li>
     		<li id="pg939907331489266245" class="wsite-menu-item-wrap">
     			<a
-    						href="/contact-us.html"
+    						href="contact-us.html"
     				class="wsite-menu-item"
     				>
     				Contact Us
