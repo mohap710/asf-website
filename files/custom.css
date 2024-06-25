@@ -7,7 +7,7 @@ img {
 }
 
 .main-wrap .wsite-section-wrap {
-  padding-block: 5rem;
+  padding-block: min(5rem,4vh);
 }
 .wsite-content-title {
   font-size: calc(2vw + 1.5rem);
@@ -56,11 +56,26 @@ img {
   gap: 1rem;
   justify-content: center;
 }
-.icon {
+.icon,.badge {
   display: inline-block;
   max-width: 200px;
   aspect-ratio: 1;
 }
+.icon{
+  max-width: 100px;
+}
+
+
+/* ui-kit custom style */
+.uk-grid{
+  row-gap: 1rem;
+}
+.uk-card-title{
+  margin-block: .6rem 1rem;
+}
+/* .uk-card-body{
+  padding: 1rem;
+} */
 
 /* Footer */
 
