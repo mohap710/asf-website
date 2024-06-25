@@ -297,7 +297,8 @@ body.splash-page .unite-header {
 body.sticky-nav-on.collapse .unite-header,
 body.splash-page.collapse .unite-header {
   position: fixed;
-  background-color: #0d0d0db4;
+  background-color: #a4a4a452;
+  backdrop-filter: blur(7px);
   color: #ffffff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   padding: 15px 40px;
