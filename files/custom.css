@@ -1,6 +1,6 @@
 /* Custom css by Mohab */
 
-/* Padding and margins */
+/* Util classes */
 .mb-3{
   margin-block: 3rem;
 }
@@ -8,8 +8,15 @@
   margin-block: 1rem;
 }
 
+.invert-1{
+  filter: invert(1);
+}
 
-/* end of padding and margins */
+.text-muted{
+  color: #ffffffc9;
+}
+
+/* end of util classes */
 img {
   width: 100%;
   height: auto;
@@ -91,6 +98,12 @@ h2.wsite-content-title {
   gap: 1rem;
   justify-content: start;
 }
+.slideshow-img{
+  width: 100%;
+  height: auto;
+}
+
+
 .icon,.badge {
   display: inline-block;
   max-width: 100px;
@@ -108,16 +121,30 @@ h2.wsite-content-title {
 .uk-card-title{
   margin-block: .6rem 1rem;
 }
+.uk-thumbnav{
+  margin-inline: 0;
+  row-gap: .5rem;
+}
+.uk-dotnav>.uk-active>*{
+  background-color: #ffffffc9;
+}
 /* .uk-card-body{
   padding: 1rem;
 } */
 
+
+.service-description{
+  max-width: 65ch;
+  color: #ffffffc9;
+  line-height: 1.5;
+}
 /* Footer */
 
 .footer {
   display: flex;
   flex-flow: row wrap;
-  padding: 3rem 6rem;
+  padding-top: 3rem;
+  padding-inline: min(6rem, 6vw);
   color: #2f2f2f;
   border-top: 1px solid #e5e5e51a;
 }
@@ -136,6 +163,14 @@ h2.wsite-content-title {
   width: 200px;
 }
 
+.contact{
+  display: flex;
+  gap: 1rem;
+}
+.contact .icon{
+  border: 1px solid whitesmoke;
+  width: 25px;
+}
 .footer__addr h2 {
   margin-top: 1.3em;
   font-size: 15px;
@@ -149,7 +184,7 @@ h2.wsite-content-title {
 
 .footer address {
   font-style: normal;
-  color: #999;
+  max-width: 30ch;
 }
 
 .footer__btn {
@@ -169,6 +204,7 @@ h2.wsite-content-title {
 
 .footer ul {
   list-style: none;
+  row-gap: 2rem;
   padding-left: 0;
 }
 
@@ -191,7 +227,7 @@ h2.wsite-content-title {
 }
 
 .nav__ul a {
-  color: #999;
+  font-size: 1.1rem;
 }
 
 .nav__ul--extra {
@@ -201,6 +237,10 @@ h2.wsite-content-title {
 
 .legal {
   display: flex;
+  justify-content: center;
+  border-top: 1px solid #e5e5e51a;
+  margin-top: 3rem;
+  width: 100%;
   flex-wrap: wrap;
   color: #999;
 }
@@ -208,6 +248,10 @@ h2.wsite-content-title {
 .legal__links {
   display: flex;
   align-items: center;
+}
+.legal p {
+  margin-bottom: 0;
+  padding: 1rem;
 }
 
 .heart {
