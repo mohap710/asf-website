@@ -348,7 +348,7 @@ body.splash-page .unite-header .hamburger span:after {
 .unite-header .logo a {
   width: max-content;
   /* padding-left: 40px; */
-  margin-left: 80px;
+  /* margin-left: 80px; */
 }
 .unite-header .logo a:hover {
   opacity: 0.6;
@@ -374,7 +374,7 @@ body.splash-page .unite-header .hamburger span:after {
 .unite-header .logo .wsite-logo {
   overflow: hidden;
   max-width: 100%;
-  max-height: clamp(95px,10vw,150px);
+  max-height: clamp(95px, 10vw, 150px);
 }
 .nav {
   display: table-cell;
