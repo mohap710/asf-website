@@ -35,7 +35,7 @@ p,
 blockquote,
 fieldset,
 input {
-  font-family: "Alegreya SC", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans","Alegreya SC", Helvetica, Arial, sans-serif;
   color: white;
   margin: 0;
   padding: 0;
@@ -68,7 +68,7 @@ html {
   background: #0c0c0c;
 }
 * {
-  font-family: "Alegreya SC", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans","Alegreya SC", Helvetica, Arial, sans-serif !important;
 }
 body {
   width: 100%;
@@ -392,7 +392,7 @@ body.splash-page .unite-header .hamburger span:after {
   font-weight: 500;
   line-height: 1;
   letter-spacing: 0.05em;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 .nav a:after {
   content: "";

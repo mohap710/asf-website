@@ -1,5 +1,11 @@
 /* Custom css by Mohab */
 
+.wsite-name-field .wsite-form-input-first-name,
+.wsite-name-field .wsite-form-input-last-name {
+  width: 100%;
+  float: unset;
+}
+
 /* Util classes */
 .mb-3 {
   margin-block: 3rem;
@@ -72,6 +78,9 @@ h2.wsite-content-title {
   font-size: calc(3vw + 1.5rem);
   color: gold;
 }
+.text-gold {
+  color: rgb(241, 205, 3);
+}
 
 .banner-wrap::before {
   content: "";
@@ -98,7 +107,7 @@ h2.wsite-content-title {
 }
 
 .slogan {
-  color: #ffffffc9;
+  color: #ffffffe0;
   max-width: 60ch;
 }
 
