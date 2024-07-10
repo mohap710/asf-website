@@ -21,6 +21,9 @@
 .text-muted {
   color: #ffffffc9;
 }
+.round-borders{
+  border-radius: 15px;
+}
 
 /* end of util classes */
 img {
@@ -148,7 +151,7 @@ h2.wsite-content-title {
 }
 .uk-slideshow-items {
   aspect-ratio: 1 !important;
-  border-radius: 50px;
+  border-radius: 15px;
 }
 .uk-dotnav > .uk-active > * {
   background-color: #ffffffc9;

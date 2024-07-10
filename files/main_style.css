@@ -94,10 +94,10 @@ strong {
 }
 h2 {
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 1.1em;
   letter-spacing: 0.03em;
-  margin-bottom: 20px;
+  margin-block: 10px 20px;
 }
 div.paragraph {
   font-size: 16px;
