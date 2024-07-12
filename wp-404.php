@@ -139,7 +139,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
 		
 		
 	</head>
-	<body class="header-page  wsite-page-index  sticky-nav-off full-width-on header-scroll-animate-on  wsite-theme-light"><div class="wrapper">
+	<body class="header-page  wsite-page-index  sticky-nav-on full-width-on header-scroll-animate-on  wsite-theme-light"><div class="wrapper">
     <div class="unite-header">
       <div class="nav-wrap">
         <div class="container">
