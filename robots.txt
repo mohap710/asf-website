@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /glovault.advancedsfinc.com/  # Block access to the directory
+Disallow: /w_api/
+
+Sitemap: https://advancedsfinc.com/sitemap.xml  # Include your sitemap location (replace with your actual website URL)
+
+# Allow all other directories to be crawled
+Allow: /
