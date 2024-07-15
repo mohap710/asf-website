@@ -24,6 +24,9 @@
 .round-borders{
   border-radius: 15px;
 }
+.circle{
+  border-radius: 50%;
+}
 
 /* end of util classes */
 img {
