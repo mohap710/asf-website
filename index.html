@@ -436,38 +436,25 @@
 											</div>
 											<div class="cta">
 												<a href="contact-us.html" class="uk-button uk-button-secondary">Request
-													A qoute</a>
+													A quote</a>
 											</div>
 										</div>
-										<div class="uk-position-relative" uk-slideshow="autoplay:true;animation: push"
-											uk-height-viewport="offset-top: true; offset-bottom: 50">
-
-											<div class="uk-slideshow-items">
-												<div class="slideshow-img">
-													<img src="images/gold-plating.jpg" alt="gold plating" uk-cover>
-												</div>
-												<div class="slideshow-img">
-													<img src="images/alodine.jpg" alt="alodine" uk-cover>
-												</div>
-												<div class="slideshow-img">
-													<img src="images/electroless-nickel.jpg" alt="electroless nickel" uk-cover>
-												</div>
-												<div class="slideshow-img">
-													<img src="images/chem-film.jpg" alt="chem film" uk-cover>
-												</div>
-												<div class="slideshow-img">
-													<img src="images/electroless-nickel2.jpg" alt="electroless nickel" uk-cover>
-												</div>
-
+										<div class="leaf-grid">
+											<div class="leaf">
+												<img src="images/gold-plating.jpg" alt="gold plating">
 											</div>
-											<!-- <a class="uk-position-center-left uk-position-small uk-hidden-hover" href uk-slidenav-previous
-																								uk-slideshow-item="previous"></a>
-																							<a class="uk-position-center-right uk-position-small uk-hidden-hover" href uk-slidenav-next
-																								uk-slideshow-item="next"></a> -->
-
-											<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
-
+											<div class="leaf">
+												<img src="images/electroless-nickel5.jpg" alt="electroless-nickel">
+											</div>
+											<div class="leaf">
+												<img src="images/chem-film.jpg" alt="chem film">
+											</div>
+											<div class="leaf">
+												<img src="images/electroless-nickel.jpg" alt="electroless nickel">
+											</div>
 										</div>
+
+										
 									</div>
 								</div>
 
@@ -945,7 +932,7 @@
 															<a class="wsite-button">
 																<span
 																	class="wsite-button-inner">Request
-																	a qoute</span>
+																	a quote</span>
 															</a>
 														</div>
 													</td>
@@ -1142,6 +1129,13 @@
 		</script>
 
 		<script>
+			(function () {
+					document.querySelectorAll(".hero-grid .hero-img:nth-child(2)").forEach((img) => img.classList.add("clipped2"))
+					document.querySelectorAll(".hero-grid .hero-img:nth-child(3)").forEach((img) => img.classList.add("clipped3"))
+				})();
+		</script>
+
+		<script>
 			window._W.isEUUser = false;
 			window._W.showCookieToAll = "all";
 		</script>
@@ -1193,7 +1187,7 @@
 			})(window._W && _W.jQuery);
 		</script>
 
-
+	
 	</body>
 
 </html>
