@@ -1,4 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/uikit@3.21.5/dist/css/uikit.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
 @import "main_style.min.css";
 @import "custom.min.css";
+@import "w's-style.css";
