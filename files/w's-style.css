@@ -20,7 +20,7 @@ body {
 
 /* =========== Index =========== */
 .container-service-hero {
-  background-image: url("/uploads/1/2/7/6/127640413/background-images/250018841.jpg");
+  background-image: url("../uploads/1/2/7/6/127640413/background-images/250018841.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
