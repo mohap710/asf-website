@@ -203,10 +203,12 @@ body {
 .img-service {
   border-radius: 2rem 6rem 2rem 2rem;
   width: 50vw;
+  height: 22vh;
   margin: auto;
   border: 2px solid #f6c2318f;
   position: relative;
   z-index: 10;
+  object-fit: fill;
 }
 
 .feature-div {
@@ -290,6 +292,7 @@ body {
   .img-service {
     border-radius: 7rem 2rem 2rem;
     width: 35vw;
+    height: 30vh;
     margin-left: 2rem;
     float: right;
   }
@@ -365,6 +368,7 @@ body {
 
   .img-service {
     width: 25vw;
+    height: 28vh;
   }
   .service-details h1 {
     font-size: 3rem;
